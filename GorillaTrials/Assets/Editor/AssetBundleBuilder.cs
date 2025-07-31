@@ -16,6 +16,6 @@ public class AssetBundleBuilder
             Debug.Log("Output Folder Doesn't Exist");
             return;
         }
-        BuildPipeline.BuildAssetBundles(outputDirectory, BuildAssetBundleOptions.None, EditorUserBuildSettings.activeBuildTarget);
+        BuildPipeline.BuildAssetBundles(outputDirectory, BuildAssetBundleOptions.None, BuildTarget.StandaloneWindows64);
     }
 }
