@@ -625,12 +625,12 @@ GameObject:
   m_Component:
   - component: {fileID: 5224937811464551536}
   m_Layer: 0
-  m_Name: FirstTrial (2)
+  m_Name: 5Trials
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &5224937811464551536
 Transform:
   m_ObjectHideFlags: 0
@@ -716,7 +716,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Complete your first trial!
+  m_text: Complete 10 Trials.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b8ada593e69c06a4da9cd8516868460a, type: 2}
   m_sharedMaterial: {fileID: 7611406814865279950, guid: b8ada593e69c06a4da9cd8516868460a,
@@ -803,7 +803,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &3493739701560224445
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1129,7 +1129,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: First Trial!
+  m_text: 10 Trials
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b8ada593e69c06a4da9cd8516868460a, type: 2}
   m_sharedMaterial: {fileID: 7611406814865279950, guid: b8ada593e69c06a4da9cd8516868460a,
@@ -2325,12 +2325,12 @@ GameObject:
   m_Component:
   - component: {fileID: 5325870048470762904}
   m_Layer: 0
-  m_Name: FirstTrial (1)
+  m_Name: HP2SM
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &5325870048470762904
 Transform:
   m_ObjectHideFlags: 0
@@ -2416,7 +2416,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: First Trial!
+  m_text: 20 Trials
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b8ada593e69c06a4da9cd8516868460a, type: 2}
   m_sharedMaterial: {fileID: 7611406814865279950, guid: b8ada593e69c06a4da9cd8516868460a,
@@ -2552,7 +2552,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Complete your first trial!
+  m_text: Complete 20 Trials.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b8ada593e69c06a4da9cd8516868460a, type: 2}
   m_sharedMaterial: {fileID: 7611406814865279950, guid: b8ada593e69c06a4da9cd8516868460a,
@@ -2688,7 +2688,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: First Trial!
+  m_text: 5 Trials
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b8ada593e69c06a4da9cd8516868460a, type: 2}
   m_sharedMaterial: {fileID: 7611406814865279950, guid: b8ada593e69c06a4da9cd8516868460a,
@@ -2960,7 +2960,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Complete your first trial!
+  m_text: Complete 5 Trials.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b8ada593e69c06a4da9cd8516868460a, type: 2}
   m_sharedMaterial: {fileID: 7611406814865279950, guid: b8ada593e69c06a4da9cd8516868460a,
@@ -3096,7 +3096,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: First Trial!
+  m_text: Hoverpark 2 Sprint Master
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b8ada593e69c06a4da9cd8516868460a, type: 2}
   m_sharedMaterial: {fileID: 7611406814865279950, guid: b8ada593e69c06a4da9cd8516868460a,
@@ -3183,7 +3183,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &3120922188224148799
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3794,12 +3794,12 @@ GameObject:
   m_Component:
   - component: {fileID: 1465424319850464022}
   m_Layer: 0
-  m_Name: FirstTrial (3)
+  m_Name: 10Trials
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1465424319850464022
 Transform:
   m_ObjectHideFlags: 0
@@ -3864,12 +3864,12 @@ GameObject:
   m_Component:
   - component: {fileID: 9012836953323968881}
   m_Layer: 0
-  m_Name: FirstTrial (4)
+  m_Name: 20Trials
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &9012836953323968881
 Transform:
   m_ObjectHideFlags: 0
@@ -3906,7 +3906,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &9221768278957316450
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4178,7 +4178,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &8948599733149977404
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4398,7 +4398,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Complete your first trial!
+  m_text: Complete the 'Hoverparl 2 Sprint Advanced' trial.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b8ada593e69c06a4da9cd8516868460a, type: 2}
   m_sharedMaterial: {fileID: 7611406814865279950, guid: b8ada593e69c06a4da9cd8516868460a,
