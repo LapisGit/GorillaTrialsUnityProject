@@ -84,8 +84,8 @@ MonoBehaviour:
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
-  m_DynamicPixelsPerUnit: 1
-  m_PresetInfoIsWorld: 1
+  m_DynamicPixelsPerUnit: 32
+  m_PresetInfoIsWorld: 0
 --- !u!114 &5343773216132837490
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -182,4 +182,4 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 
+  m_Text: what is a pixellari
