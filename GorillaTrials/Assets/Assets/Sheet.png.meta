@@ -417,7 +417,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -426,6 +426,28 @@ TextureImporter:
       bones: []
       spriteID: 60e4c56115789254294146fdb30d14c1
       internalID: 1688970294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 305
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174b072dd251fa741b12538227c005e4
+      internalID: -1135510241
       vertices: []
       indices: 
       edges: []
@@ -450,6 +472,7 @@ TextureImporter:
       Checkmark: -1929691436
       Dev: 1669900133
       GreenFlag: 1002418640
+      Gun: -1135510241
       Incomplete: 168509637
       Lapis: -308683387
       Mia: 869417615
